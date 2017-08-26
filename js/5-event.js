@@ -10,7 +10,6 @@ $(function () {
         },
         'mouseleave': function () {
             $(this).css('color', 'inherit');
-            $(this).css('color', 'green');
         }
     });
 });
